@@ -1,0 +1,5 @@
+C:\BOX\PROJECTS\AOApp\Domain\bin\Debug\Domain.dll
+C:\BOX\PROJECTS\AOApp\Domain\bin\Debug\Domain.pdb
+C:\BOX\PROJECTS\AOApp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\BOX\PROJECTS\AOApp\Domain\obj\Debug\Domain.dll
+C:\BOX\PROJECTS\AOApp\Domain\obj\Debug\Domain.pdb

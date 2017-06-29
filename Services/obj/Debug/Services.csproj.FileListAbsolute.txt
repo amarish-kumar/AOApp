@@ -1,0 +1,9 @@
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Services.dll
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Services.pdb
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Domain.dll
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Repository.dll
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Domain.pdb
+C:\BOX\PROJECTS\AOApp\Services\bin\Debug\Repository.pdb
+C:\BOX\PROJECTS\AOApp\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\BOX\PROJECTS\AOApp\Services\obj\Debug\Services.dll
+C:\BOX\PROJECTS\AOApp\Services\obj\Debug\Services.pdb

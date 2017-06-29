@@ -1,0 +1,14 @@
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\DAL.dll.config
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\DAL.dll
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\DAL.pdb
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\Domain.dll
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\EntityFramework.dll
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\Repository.dll
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\Domain.pdb
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\Repository.pdb
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\EntityFramework.xml
+C:\BOX\PROJECTS\AOApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\BOX\PROJECTS\AOApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\BOX\PROJECTS\AOApp\DAL\obj\Debug\DAL.dll
+C:\BOX\PROJECTS\AOApp\DAL\obj\Debug\DAL.pdb
